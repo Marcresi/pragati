@@ -19,11 +19,11 @@ and capable  of answering any Edtech related queries.
 
   > ## Applicaton Images.
   
-  <img width="640px" height="320px" src="https://github.com/Marcresi/pragati/assets/101006060/029da282-a041-4fb5-a8db-9b15dc7719ce"/>
-  <img width="640px" height="320px" src="https://github.com/Marcresi/pragati/assets/101006060/cca565a8-52e7-4137-b6ec-6b1e885e6fb6"/>
+  <img width="320px" height="640px" src="https://github.com/Marcresi/pragati/assets/101006060/029da282-a041-4fb5-a8db-9b15dc7719ce"/>
+  <img width="320px" height="640px" src="https://github.com/Marcresi/pragati/assets/101006060/cca565a8-52e7-4137-b6ec-6b1e885e6fb6"/>
   
-  <img width="640px" height="320px" src="https://github.com/Marcresi/pragati/assets/101006060/2eb5608c-edf5-4bc5-9965-706956bf4192"/>
-  <img width="640px" height="320px" src="https://github.com/Marcresi/pragati/assets/101006060/84ace80b-4db2-46d7-8fb7-774222a892f2"/>
+  <img width="320px" height="640px" src="https://github.com/Marcresi/pragati/assets/101006060/2eb5608c-edf5-4bc5-9965-706956bf4192"/>
+  <img width="320px" height="640px" src="https://github.com/Marcresi/pragati/assets/101006060/84ace80b-4db2-46d7-8fb7-774222a892f2"/>
 
 
   > ## Solution and App demo video
