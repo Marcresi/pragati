@@ -8,8 +8,7 @@
 ## Problem 
 
 In order to realise the goal of demographic divide, every citizen of the country needs to be educated for job, be it a scientist, a doctor, engineer or whatever to meet not only the needs of our society but also the other societies elsewhere in the world. Every student aspires to become a great person and self reliant, but their passion and likings are diverse. 
-
-AND to cater the aspirations of the students and people looking for new opportunities and facilitate them to aim high, they are required to be informed and suggested about the number and type of jobs this country has in the future years and also the number of business persons, entrepreneurs, workforce in all areas of employment. 
+And to cater the aspirations of the students and people looking for new opportunities and facilitate them to aim high, they are required to be informed and suggested about the number and type of jobs this country has in the future years and also the number of business persons, entrepreneurs, workforce in all areas of employment. 
 
 ## Solution
 
@@ -21,7 +20,6 @@ and capable  of answering any Edtech related queries.
   
   <img width="320px" height="640px" src="https://github.com/Marcresi/pragati/assets/101006060/029da282-a041-4fb5-a8db-9b15dc7719ce"/>
   <img width="320px" height="640px" src="https://github.com/Marcresi/pragati/assets/101006060/cca565a8-52e7-4137-b6ec-6b1e885e6fb6"/>
-  
   <img width="320px" height="640px" src="https://github.com/Marcresi/pragati/assets/101006060/2eb5608c-edf5-4bc5-9965-706956bf4192"/>
   <img width="320px" height="640px" src="https://github.com/Marcresi/pragati/assets/101006060/84ace80b-4db2-46d7-8fb7-774222a892f2"/>
   <img width="320px" height="640px" src="https://github.com/Marcresi/pragati/assets/101006060/ed19554f-f0f7-43a3-b2c2-dbf4b3220470"/>
