@@ -26,8 +26,13 @@ final GoRouter router = GoRouter(
           path: 'UpdatePage',
           pageBuilder: (BuildContext context, GoRouterState state) =>
               MaterialPage(
-            child: const UpdatePage(),
+            child: UpdatePage(),
           ),
+        ),
+        GoRoute(
+          path: 'UserInfoPage',
+          builder: (BuildContext context, GoRouterState state) =>
+              UserInfoPage(),
         ),
         GoRoute(
           path: 'CollegeListPage',
@@ -36,43 +41,40 @@ final GoRouter router = GoRouter(
         ),
         GoRoute(
           path: 'JobListPage',
-          builder: (BuildContext context, GoRouterState state) =>
-              const JobListPage(),
+          builder: (BuildContext context, GoRouterState state) => JobListPage(),
         ),
         GoRoute(
           path: 'JobInfoPage',
-          builder: (BuildContext context, GoRouterState state) =>
-              const JobInfoPage(),
+          builder: (BuildContext context, GoRouterState state) => JobInfoPage(),
         ),
         GoRoute(
           path: 'CollegeInfoPage',
           builder: (BuildContext context, GoRouterState state) =>
-              const CollegeInfoPage(),
+              CollegeInfoPage(),
         ),
         GoRoute(
           path: 'CareerInfoPage',
           builder: (BuildContext context, GoRouterState state) =>
-              const CareerInfoPage(),
+              CareerInfoPage(),
         ),
         GoRoute(
-          path: 'CarrerPathPage',
+          path: 'CareerPathPage',
           builder: (BuildContext context, GoRouterState state) =>
-              const CareerPathPage(),
+              CareerPathPage(),
         ),
         GoRoute(
           path: 'MastersInfoPage',
           builder: (BuildContext context, GoRouterState state) =>
-              const MastersInfoPage(),
+              MastersInfoPage(),
         ),
         GoRoute(
           path: 'MastersListPage',
           builder: (BuildContext context, GoRouterState state) =>
-              const MastersListPage(),
+              MastersListPage(),
         ),
         GoRoute(
           path: 'JobListPage',
-          builder: (BuildContext context, GoRouterState state) =>
-              const JobListPage(),
+          builder: (BuildContext context, GoRouterState state) => JobListPage(),
         ),
       ],
     ),

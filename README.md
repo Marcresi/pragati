@@ -1,4 +1,4 @@
-# pragati
+# Pragati
 
 A new Flutter project.
 
