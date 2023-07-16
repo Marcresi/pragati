@@ -19,8 +19,8 @@ and capable  of answering any Edtech related queries.
 
   > ## Applicaton Images.
   
-    
-  ![4](https://github.com/Marcresi/pragati/assets/101006060/029da282-a041-4fb5-a8db-9b15dc7719ce)
+  <img width="450px" height="330px" src=" ![4](https://github.com/Marcresi/pragati/assets/101006060/029da282-a041-4fb5-a8db-9b15dc7719ce)"/>
+ 
 
   > ## Solution and App demo video
   https://user-images.githubusercontent.com/77913276/227733559-89e758ba-4f6d-4e9d-b115-a109a5d2b029.mp4
